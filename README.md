@@ -17,3 +17,5 @@
   - Cada representante de empresa fala da sua empresa, da importancia do Grails em seus projetos.
   - Mesa redonda para responder as dúvidas, tanto dos devs quanto das empresas.
   - No Job Network as empresas falam sobre as vagas e o tipo de funcinário que elas procuram (perguntas e respostas)
+  
+Acesse: [Grails no Divã](http://jonatasemidio.github.io/grails-no-diva/)
