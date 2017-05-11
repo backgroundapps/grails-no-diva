@@ -1,8 +1,8 @@
 ---------------
-#Grails No Divã
+# Grails No Divã
 
 
-##Evento voltado para a comunidade Grails e afins
+## Evento voltado para a comunidade Grails e afins
 
 * **Objetivo:**
   - Reunir todos os interessados no framework Grails e seus coligados (Groovy, Grandle, etc).
